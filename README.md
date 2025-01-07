@@ -46,7 +46,7 @@ This project focuses on predicting loan defaults using machine learning techniqu
 
 ## Visualizations
 ### Feature Importance (LightGBM)
-![Feature Importance](./plots/inishts/Top_10_Features_Contributing_to_Loan_Defaults_LightGBM.png)
+![Feature Importance](./plots/insights/Top_10_Features_Contributing_to_Loan_Defaults_LightGBM.png)
 
 ### Borrower Characteristics
 ![Borrower Characteristics](./plots/insights/Distributions_of_Variables_by_Loan_Default_Status.png)
